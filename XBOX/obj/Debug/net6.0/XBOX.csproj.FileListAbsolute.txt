@@ -1,0 +1,15 @@
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\bin\Debug\net6.0\XBOX.exe
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\bin\Debug\net6.0\XBOX.deps.json
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\bin\Debug\net6.0\XBOX.runtimeconfig.json
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\bin\Debug\net6.0\XBOX.dll
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\bin\Debug\net6.0\XBOX.pdb
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\obj\Debug\net6.0\XBOX.csproj.AssemblyReference.cache
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\obj\Debug\net6.0\XBOX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\obj\Debug\net6.0\XBOX.AssemblyInfoInputs.cache
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\obj\Debug\net6.0\XBOX.AssemblyInfo.cs
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\obj\Debug\net6.0\XBOX.csproj.CoreCompileInputs.cache
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\obj\Debug\net6.0\XBOX.dll
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\obj\Debug\net6.0\refint\XBOX.dll
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\obj\Debug\net6.0\XBOX.pdb
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\obj\Debug\net6.0\XBOX.genruntimeconfig.cache
+C:\Users\OKAJIBANANA\Desktop\banana\XBOX\obj\Debug\net6.0\ref\XBOX.dll
