@@ -1,0 +1,15 @@
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\obj\Debug\net6.0\TETRIS.csproj.AssemblyReference.cache
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\obj\Debug\net6.0\TETRIS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\obj\Debug\net6.0\TETRIS.AssemblyInfoInputs.cache
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\obj\Debug\net6.0\TETRIS.AssemblyInfo.cs
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\obj\Debug\net6.0\TETRIS.csproj.CoreCompileInputs.cache
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\bin\Debug\net6.0\TETRIS.exe
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\bin\Debug\net6.0\TETRIS.deps.json
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\bin\Debug\net6.0\TETRIS.runtimeconfig.json
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\bin\Debug\net6.0\TETRIS.dll
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\bin\Debug\net6.0\TETRIS.pdb
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\obj\Debug\net6.0\TETRIS.dll
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\obj\Debug\net6.0\refint\TETRIS.dll
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\obj\Debug\net6.0\TETRIS.pdb
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\obj\Debug\net6.0\TETRIS.genruntimeconfig.cache
+C:\Users\OKAJIBANANA\Desktop\banana\TETRIS\obj\Debug\net6.0\ref\TETRIS.dll
