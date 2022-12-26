@@ -1,0 +1,15 @@
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\bin\Debug\net6.0\PLAYSTATION.exe
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\bin\Debug\net6.0\PLAYSTATION.deps.json
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\bin\Debug\net6.0\PLAYSTATION.runtimeconfig.json
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\bin\Debug\net6.0\PLAYSTATION.dll
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\bin\Debug\net6.0\PLAYSTATION.pdb
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\obj\Debug\net6.0\PLAYSTATION.csproj.AssemblyReference.cache
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\obj\Debug\net6.0\PLAYSTATION.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\obj\Debug\net6.0\PLAYSTATION.AssemblyInfoInputs.cache
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\obj\Debug\net6.0\PLAYSTATION.AssemblyInfo.cs
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\obj\Debug\net6.0\PLAYSTATION.csproj.CoreCompileInputs.cache
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\obj\Debug\net6.0\PLAYSTATION.dll
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\obj\Debug\net6.0\refint\PLAYSTATION.dll
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\obj\Debug\net6.0\PLAYSTATION.pdb
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\obj\Debug\net6.0\PLAYSTATION.genruntimeconfig.cache
+C:\Users\OKAJIBANANA\Desktop\banana\PLAYSTATION\obj\Debug\net6.0\ref\PLAYSTATION.dll
