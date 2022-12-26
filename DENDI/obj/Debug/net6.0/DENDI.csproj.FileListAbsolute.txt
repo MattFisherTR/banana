@@ -1,0 +1,15 @@
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\bin\Debug\net6.0\DENDI.exe
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\bin\Debug\net6.0\DENDI.deps.json
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\bin\Debug\net6.0\DENDI.runtimeconfig.json
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\bin\Debug\net6.0\DENDI.dll
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\bin\Debug\net6.0\DENDI.pdb
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\obj\Debug\net6.0\DENDI.csproj.AssemblyReference.cache
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\obj\Debug\net6.0\DENDI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\obj\Debug\net6.0\DENDI.AssemblyInfoInputs.cache
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\obj\Debug\net6.0\DENDI.AssemblyInfo.cs
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\obj\Debug\net6.0\DENDI.csproj.CoreCompileInputs.cache
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\obj\Debug\net6.0\DENDI.dll
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\obj\Debug\net6.0\refint\DENDI.dll
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\obj\Debug\net6.0\DENDI.pdb
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\obj\Debug\net6.0\DENDI.genruntimeconfig.cache
+C:\Users\OKAJIBANANA\Desktop\banana\DENDI\obj\Debug\net6.0\ref\DENDI.dll
