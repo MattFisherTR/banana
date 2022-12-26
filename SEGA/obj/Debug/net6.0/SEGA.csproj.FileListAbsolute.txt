@@ -1,0 +1,15 @@
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\bin\Debug\net6.0\SEGA.exe
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\bin\Debug\net6.0\SEGA.deps.json
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\bin\Debug\net6.0\SEGA.runtimeconfig.json
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\bin\Debug\net6.0\SEGA.dll
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\bin\Debug\net6.0\SEGA.pdb
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\obj\Debug\net6.0\SEGA.csproj.AssemblyReference.cache
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\obj\Debug\net6.0\SEGA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\obj\Debug\net6.0\SEGA.AssemblyInfoInputs.cache
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\obj\Debug\net6.0\SEGA.AssemblyInfo.cs
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\obj\Debug\net6.0\SEGA.csproj.CoreCompileInputs.cache
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\obj\Debug\net6.0\SEGA.dll
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\obj\Debug\net6.0\refint\SEGA.dll
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\obj\Debug\net6.0\SEGA.pdb
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\obj\Debug\net6.0\SEGA.genruntimeconfig.cache
+C:\Users\OKAJIBANANA\Desktop\banana\SEGA\obj\Debug\net6.0\ref\SEGA.dll
